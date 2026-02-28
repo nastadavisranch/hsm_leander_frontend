@@ -39,11 +39,11 @@ import food34 from '../images/food/34.jpg';
 import food35 from '../images/food/35.jpg';
 
 // ===== Ambiance =====
-import ambiance1 from '../images/ambiance/Ambiance-1.jpg';
-import ambiance2 from '../images/ambiance/Ambiance-2.jpeg';
-import ambiance3 from '../images/ambiance/Ambiance-3.jpeg';
-import ambiance4 from '../images/ambiance/Ambiance-4.jpeg';
-import ambiance5 from '../images/ambiance/Ambiance-5.jpeg';
+import ambiance1 from '../images/Ambiance/Ambiance-1.jpg';
+import ambiance2 from '../images/Ambiance/Ambiance-2.jpeg';
+import ambiance3 from '../images/Ambiance/Ambiance-3.jpeg';
+import ambiance4 from '../images/Ambiance/Ambiance-4.jpeg';
+import ambiance5 from '../images/Ambiance/Ambiance-5.jpeg';
 
 // ===== Exterior =====
 import exterior1 from '../images/exterior/exterior-1.jpg';
