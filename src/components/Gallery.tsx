@@ -2,7 +2,7 @@
 import { useState, useMemo } from 'react';
 
 // ===== Food Images (1–35) =====
-import food1 from '../images/food/1.jpg';
+
 import food2 from '../images/food/2.jpg';
 import food3 from '../images/food/3.jpg';
 import food4 from '../images/food/4.jpg';
@@ -59,7 +59,7 @@ export default function Gallery() {
   // ===== All Images =====
   const images = [
     // Food
-    { category: 'Our Cuisine', url: food1, alt: 'Delicious Hyderabadi dish 1' },
+    
     { category: 'Our Cuisine', url: food2, alt: 'Delicious Hyderabadi dish 2' },
     { category: 'Our Cuisine', url: food3, alt: 'Delicious Hyderabadi dish 3' },
     { category: 'Our Cuisine', url: food4, alt: 'Delicious Hyderabadi dish 4' },
